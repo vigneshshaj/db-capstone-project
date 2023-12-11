@@ -1,2 +1,1 @@
-# db-capstone-project
-Capstone Project - Meta Database Engineering
+setting up repository for project
